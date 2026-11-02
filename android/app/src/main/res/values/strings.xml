@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sky Ball 3D</string>
+    <string name="title_activity_main">Sky Ball 3D</string>
+    <string name="package_name">com.pratikdevelop.skyball3d</string>
+    <string name="custom_url_scheme">com.pratikdevelop.skyball3d</string>
+</resources>
